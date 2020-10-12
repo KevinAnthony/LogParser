@@ -1,4 +1,4 @@
-module logParser
+module github.com/KevinAnthony/LogParser
 
 go 1.13
 

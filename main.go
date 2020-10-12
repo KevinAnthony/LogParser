@@ -2,8 +2,9 @@ package main
 
 import (
 	"fmt"
-	"logParser/sealer"
 	"os"
+
+	"github.com/KevinAnthony/LogParser/sealer"
 
 	"github.com/urfave/cli/v2"
 )
